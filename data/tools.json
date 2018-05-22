@@ -1,68 +1,76 @@
 {
   "last-modifiy": "20180522",
-  "pecarecorder": {
-    "name": "PeCaRecorder",
-    "url": "http://www.geocities.jp/pecatv/arc/PeCaRecorder_v087.7z",
-    "version": "v087",
-    "filename": "PeCaRecorder_v087.7z",
-    "projectpage": "http://www.geocities.jp/pecatv/"
-  },
-  "pcyplite": {
-    "name": "pcypLite",
-    "url": "http://www.geocities.jp/pcyp2010/dl/pcypLite_20170720.7z",
-    "version": "1.9.5",
-    "filename": "pcypLite_20170720.7z",
-    "projectpage": "http://www.geocities.jp/pcyp2010/"
-  },
-  "peercaststation": {
-    "name": "PeerCastStation (安定板)",
-    "url": "http://www.pecastation.org/files/PeerCastStation-2.2.1.zip",
-    "version": "2.2.1",
-    "filename": "PeerCastStation-2.2.1.zip",
-    "projectpage": "https://github.com/kumaryu/peercaststation/"
-  },
-  "peercaststation-dev": {
-    "name": "PeerCastStation (開発版)",
-    "url": "http://www.pecastation.org/files/PeerCastStation-2.5.1.zip",
-    "version": "2.5.1",
-    "filename": "PeerCastStation-2.5.1.zip",
-    "projectpage": "https://github.com/kumaryu/peercaststation/"
-  },
-  "peercast-yt": {
-    "windows-x86": {
-      "name": "PeerCast YT Windows-x86",
-      "url": "https://github.com/plonk/peercast-yt/releases/download/v0.2.7/peercast-yt27-mingw32.zip",
-      "version": "0.2.7",
-      "filename": "peercast-yt27-mingw32.zip"
+  "data": [{
+      "id": "pecarecorder",
+      "name": "PeCaRecorder",
+      "url": "http://www.geocities.jp/pecatv/arc/PeCaRecorder_v087.7z",
+      "version": "v087",
+      "filename": "PeCaRecorder_v087.7z",
+      "projectpage": "http://www.geocities.jp/pecatv/"
     },
-    "linux-amd64": {
-      "name": "PeerCast YT Linux-amd64",
-      "url": "https://github.com/plonk/peercast-yt/releases/download/v0.2.7/peercast-yt-linux-x86_64.tar.gz",
-      "version": "0.2.7",
-      "filename": "peercast-yt-linux-x86_64.tar.gz"
+    {
+      "id": "pcyplite",
+      "name": "pcypLite",
+      "url": "http://www.geocities.jp/pcyp2010/dl/pcypLite_20170720.7z",
+      "version": "1.9.5",
+      "filename": "pcypLite_20170720.7z",
+      "projectpage": "http://www.geocities.jp/pcyp2010"
     },
-    "projectpage": "https://github.com/plonk/peercast-yt/"
-  },
-  "peerstplayer": {
-    "name": "PeerstPlayer",
-    "url": "https://github.com/shule517/PeerstPlayer/releases/download/5.1.40/PeerstPlayer.zip",
-    "version": "5.1.40",
-    "filename": "PeerstPlayer.zip",
-    "projectpage": "https://github.com/shule517/PeerstPlayer/"
-  },
-  "liveport": {
-    "windows-amd64":{
-      "name": "liveport Windows-amd64",
-      "url": "https://github.com/odangosan/liveport/releases/download/v1.9.0/liveport-win32-x64-1.9.0.zip",
-      "version": "1.9.0",
-      "filename": "liveport-win32-x64-1.9.0.zip"
+    {
+      "id": "peercaststation",
+      "name": "PeerCastStation (安定板)",
+      "url": "http://www.pecastation.org/files/PeerCastStation-2.2.1.zip",
+      "version": "2.2.1",
+      "filename": "PeerCastStation-2.2.1.zip",
+      "projectpage": "https://github.com/kumaryu/peercaststation"
     },
-    "windows-x86": {
-      "name": "liveport Windows-x86",
-      "url": "https://github.com/odangosan/liveport/releases/download/v1.9.0/liveport-win32-ia32-1.9.0.zip",
-      "version": "1.9.0",
-      "filename": "liveport-win32-ia32-1.9.0.zip"
+    {
+      "id": "peercaststation-dev",
+      "name": "PeerCastStation (開発版)",
+      "url": "http://www.pecastation.org/files/PeerCastStation-2.5.1.zip",
+      "version": "2.5.1",
+      "filename": "PeerCastStation-2.5.1.zip",
+      "projectpage": "https://github.com/kumaryu/peercaststation"
     },
-    "projectpage": "https://github.com/odangosan/liveport/"
-  }
+    {
+      "id": "peercast-yt",
+      "windows-x86": {
+        "name": "PeerCast YT Windows-x86",
+        "url": "https://github.com/plonk/peercast-yt/releases/download/v0.2.7/peercast-yt27-mingw32.zip",
+        "version": "0.2.7",
+        "filename": "peercast-yt27-mingw32.zip"
+      },
+      "linux-amd64": {
+        "name": "PeerCast YT Linux-amd64",
+        "url": "https://github.com/plonk/peercast-yt/releases/download/v0.2.7/peercast-yt-linux-x86_64.tar.gz",
+        "version": "0.2.7",
+        "filename": "peercast-yt-linux-x86_64.tar.gz"
+      },
+      "projectpage": "https://github.com/plonk/peercast-yt"
+    },
+    {
+      "id": "peerstplayer",
+      "name": "PeerstPlayer",
+      "url": "https://github.com/shule517/PeerstPlayer/releases/download/5.1.40/PeerstPlayer.zip",
+      "version": "5.1.40",
+      "filename": "PeerstPlayer.zip",
+      "projectpage": "https://github.com/shule517/PeerstPlayer"
+    },
+    {
+      "id": "liveport",
+      "windows-amd64":{
+        "name": "liveport Windows-amd64",
+        "url": "https://github.com/odangosan/liveport/releases/download/v1.9.0/liveport-win32-x64-1.9.0.zip",
+        "version": "1.9.0",
+        "filename": "liveport-win32-x64-1.9.0.zip"
+      },
+      "windows-x86": {
+        "name": "liveport Windows-x86",
+        "url": "https://github.com/odangosan/liveport/releases/download/v1.9.0/liveport-win32-ia32-1.9.0.zip",
+        "version": "1.9.0",
+        "filename": "liveport-win32-ia32-1.9.0.zip"
+      },
+      "projectpage": "https://github.com/odangosan/liveport"
+    }
+  ]
 }
