@@ -1,9 +1,0 @@
-PeCaRecorder<>00000000000000000000000000000000<><>http://www.geocities.jp/pecatv/arc/PeCaRecorder_v087.7z<>v087<>PeCaRecorder_v087.7z<>-10<>-10<>0<>RAW<><><><><><>00:00<>click<><>0
-pcypLite<>00000000000000000000000000000000<><>http://www.geocities.jp/pcyp2010/dl/pcypLite_20170720.7z<>1.9.5<>pcypLite_20170720.7z<>-10<>-10<>0<>RAW<><><><><><>00:00<>click<><>0
-PeerCastStation(安定板)<>00000000000000000000000000000000<><>http://www.pecastation.org/files/PeerCastStation-2.2.1.zip<>2.2.1<>PeerCastStation-2.2.1.zip<>-10<>-10<>0<>RAW<><><><><><>00:00<>click<><>0
-PeerCastStation(開発版)<>00000000000000000000000000000000<><>http://www.pecastation.org/files/PeerCastStation-2.5.1.zip<>2.5.1<>PeerCastStation-2.5.1.zip<>-10<>-10<>0<>RAW<><><><><><>00:00<>click<><>0
-PeerCast YT(Windows)<>00000000000000000000000000000000<><>https://github.com/plonk/peercast-yt/releases/download/v0.2.7/peercast-yt27-mingw32.zip<>0.2.7<>peercast-yt27-mingw32.zip<>-10<>-10<>0<>RAW<><><><><><>00:00<>click<><>0
-PeerCast YT(Linux)<>00000000000000000000000000000000<><>https://github.com/plonk/peercast-yt/releases/download/v0.2.7/peercast-yt-linux-x86_64.tar.gz<>0.2.7<>peercast-yt-linux-x86_64.tar.gz<>-10<>-10<>0<>RAW<><><><><><>00:00<>click<><>0
-PeerstPlayer<>00000000000000000000000000000000<><>https://github.com/shule517/PeerstPlayer/releases/download/5.1.40/PeerstPlayer.zip<>5.1.40<>PeerstPlayer.zip<>-10<>-10<>0<>RAW<><><><><><>00:00<>click<><>0
-liveport(x64)<>00000000000000000000000000000000<><>https://github.com/odangosan/liveport/releases/download/v1.9.0/liveport-win32-x64-1.9.0.zip<>1.9.0<>liveport-win32-x64-1.9.0.zip<>-10<>-10<>0<>RAW<><><><><><>00:00<>click<><>0
-liveport(x86)<>00000000000000000000000000000000<><>https://github.com/odangosan/liveport/releases/download/v1.9.0/liveport-win32-ia32-1.9.0.zip<>1.9.0<>liveport-win32-x64-1.9.0.zip<>-10<>-10<>0<>RAW<><><><><><>00:00<>click<><>0
