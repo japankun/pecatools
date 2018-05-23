@@ -1,4 +1,5 @@
-before_deploy: $CMD_BEFORE_DEPLOY
+before_deploy:
+  - wget $CMD_BEFORE_DEPLOY
 deploy:
   provider: pages
   skip-cleanup: true
