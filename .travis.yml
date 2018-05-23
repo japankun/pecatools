@@ -7,3 +7,4 @@ deploy:
   target_branch: yp
   on:
     branch: master
+script: ""
