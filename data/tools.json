@@ -1,6 +1,7 @@
 {
-  "last-modifiy": "20180625",
-  "data": [{
+  "lastmodifiy": "20180701",
+  "data": [
+    {
       "id": "pecarecorder",
       "name": "PeCaRecorder",
       "url": "http://www.geocities.jp/pecatv/arc/PeCaRecorder_v090.7z",
@@ -33,24 +34,19 @@
       "projectpage": "https://github.com/kumaryu/peercaststation"
     },
     {
-      "id": "peercast-yt",
-      "name": "PeerCast YT",
-      "arch": [
-        {
-          "arch": "windows-x86",
-          "name": "PeerCast YT Windows-x86",
-          "url": "https://github.com/plonk/peercast-yt/releases/download/v0.2.7/peercast-yt27-mingw32.zip",
-          "version": "0.2.7",
-          "filename": "peercast-yt27-mingw32.zip"
-        },
-        {
-          "arch": "linux-amd64",
-          "name": "PeerCast YT Linux-amd64",
-          "url": "https://github.com/plonk/peercast-yt/releases/download/v0.2.7/peercast-yt-linux-x86_64.tar.gz",
-          "version": "0.2.7",
-          "filename": "peercast-yt-linux-x86_64.tar.gz"
-        }
-      ],
+      "id": "peercast-yt-win",
+      "name": "PeerCast YT Windows-x86",
+      "url": "https://github.com/plonk/peercast-yt/releases/download/v0.2.7/peercast-yt27-mingw32.zip",
+      "version": "0.2.7",
+      "filename": "peercast-yt27-mingw32.zip",
+      "projectpage": "https://github.com/plonk/peercast-yt"
+    },
+    {
+      "id": "peercast-yt-linux",
+      "name": "PeerCast YT Linux-amd64",
+      "url": "https://github.com/plonk/peercast-yt/releases/download/v0.2.7/peercast-yt-linux-x86_64.tar.gz",
+      "version": "0.2.7",
+      "filename": "peercast-yt-linux-x86_64.tar.gz",
       "projectpage": "https://github.com/plonk/peercast-yt"
     },
     {
@@ -62,24 +58,19 @@
       "projectpage": "https://github.com/shule517/PeerstPlayer"
     },
     {
-      "id": "liveport",
-      "name": "liveport",
-       "arch": [
-        {
-          "arch": "windows-amd64",
-          "name": "liveport Windows-amd64",
-          "url": "https://github.com/odangosan/liveport/releases/download/v1.9.0/liveport-win32-x64-1.9.0.zip",
-          "version": "1.9.0",
-          "filename": "liveport-win32-x64-1.9.0.zip"
-        },
-        {
-          "arch": "windows-x86",
-          "name": "liveport Windows-x86",
-          "url": "https://github.com/odangosan/liveport/releases/download/v1.9.0/liveport-win32-ia32-1.9.0.zip",
-          "version": "1.9.0",
-          "filename": "liveport-win32-ia32-1.9.0.zip"
-        }
-      ],
+      "id": "liveport-windows-amd64",
+      "name": "liveport Windows-amd64",
+      "url": "https://github.com/odangosan/liveport/releases/download/v1.9.0/liveport-win32-x64-1.9.0.zip",
+      "version": "1.9.0",
+      "filename": "liveport-win32-x64-1.9.0.zip",
+      "projectpage": "https://github.com/odangosan/liveport"      
+    },
+    {
+      "id": "liveport-windows-x86",
+      "name": "liveport Windows-x86",
+      "url": "https://github.com/odangosan/liveport/releases/download/v1.9.0/liveport-win32-ia32-1.9.0.zip",
+      "version": "1.9.0",
+      "filename": "liveport-win32-ia32-1.9.0.zip",
       "projectpage": "https://github.com/odangosan/liveport"
     }
   ]
